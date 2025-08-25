@@ -1,0 +1,1 @@
+Backend with roles, password reset (console) and PDF invoice generation. See .env.example
