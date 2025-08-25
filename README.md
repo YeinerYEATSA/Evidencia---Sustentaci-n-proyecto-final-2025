@@ -8,7 +8,6 @@ Incluye:
 
 ## Instrucciones
 1. Backend
-  - Copia backend/.env.example a backend/.env y completa MONGODB_URI y JWT_SECRET
   - cd backend
   - npm install
   - npm run dev
